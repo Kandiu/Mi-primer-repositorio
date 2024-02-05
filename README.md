@@ -1,2 +1,1 @@
-# Mi-primer-repositorio
-Este es mi primer prueba para crear un repositorio
+Este es un proyecto de prueba de como crear un repositorio y clonarlo desde github a mi escritorio local
